@@ -44,7 +44,7 @@ require (
 	golang.org/x/sys v0.14.1-0.20231113162313-11eadc05e9bf
 	golang.org/x/time v0.4.0
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.28.4
 	k8s.io/apiextensions-apiserver v0.28.4
